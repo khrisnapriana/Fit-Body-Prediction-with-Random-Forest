@@ -1,1 +1,1 @@
-# Fit-Body-Prediction-using-Random-Forest
+# Fit Body Prediction using Random Forest
